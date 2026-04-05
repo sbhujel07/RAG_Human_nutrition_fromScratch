@@ -7,8 +7,7 @@ It uses a **Retrieval-Augmented Generation (RAG)** pipeline, which combines sema
 ---
 
 
-You can also see the Jupyter Notebook directly on Colab:
-Open Notebook in Colab https://colab.research.google.com/drive/1XXGkpQzn9pY4xJMQFQyip9-7yqdNZV6o#scrollTo=8lV7vijkYYA7
+You can also see the Jupyter Notebook directly on Colab: https://colab.research.google.com/drive/1XXGkpQzn9pY4xJMQFQyip9-7yqdNZV6o#scrollTo=8lV7vijkYYA7
 
 
 
