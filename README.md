@@ -3,25 +3,26 @@ Thi RAG system a smart question-answering system that allows users to interact w
 It uses a Retrieval-Augmented Generation (RAG) pipeline, which combines semantic search with a language model to provide accurate and context-aware responses.
 
 🔍 What This Project Does
-Reads and processes PDF files
-Breaks down large text into smaller meaningful chunks
-Converts text into embeddings for semantic understanding
-Finds the most relevant information based on user queries
-Generates human-like answers using a transformer model
+-Reads and processes PDF files
+-Breaks down large text into smaller meaningful chunks
+-Converts text into embeddings for semantic understanding
+-Finds the most relevant information based on user queries
+-Generates human-like answers using a transformer model
 
 ⚙️ Workflow
 PDF Processing
-Extracts text from the document and cleans it for further use.
-Text Chunking
+:Extracts text from the document and cleans it for further use.
+
+Text Chunking:
 Splits large content into smaller parts for better retrieval.
 
-Embedding Generation
+Embedding Generation:
 Each chunk is converted into vector form using embedding models.
 
-Similarity Search
+Similarity Search:
 The system compares the query with stored embeddings to find relevant context.
 
-Answer Generation
+Answer Generation:
 A language model generates the final response using retrieved data.
 
 
